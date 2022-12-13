@@ -13,10 +13,3 @@ Arcade Classics is a fun extension with 9 games to play! Ranging from the fast-p
 - Snake
 
 View our website for our changelog and info: https://arcade-classics.github.io
-
-Credits:
-- Hugo Maxted (https://github.com/Hugo-Maxted)
-- Oscar (😎)
-- StilltheSmartie
-- mnit
-- Not Tacoz
